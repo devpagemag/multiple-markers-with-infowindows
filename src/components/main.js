@@ -9,7 +9,6 @@ class Map extends React.Component {
   constructor(props) { 
     super(props);
     this.onScriptLoad = this.onScriptLoad.bind(this);
-
   }
 
   onScriptLoad() {
