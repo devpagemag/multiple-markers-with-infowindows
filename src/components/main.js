@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 var map;
 var markers=[];
 var infowindow;
-const API_KEY = "AIzaSyCBNu313em500gTjCzfDu8jzPh_Zz86JpY" ;
+const API_KEY = "" ;
 class Map extends React.Component {
   constructor(props) { 
     super(props);
